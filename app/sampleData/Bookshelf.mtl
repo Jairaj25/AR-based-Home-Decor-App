@@ -1,0 +1,37 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Material.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Alex\\Desktop\\blender files\\free textcures\\wood\\Wood049_2K-JPG\\Wood049_2K_Color.jpg
+map_Ns C:\\Users\\Alex\\Desktop\\blender files\\free textcures\\wood\\Wood049_2K-JPG\\Wood049_2K_Roughness.jpg
+
+newmtl Material.002
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.310814 0.310814 0.310814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\Alex\\Desktop\\blender files\\free textcures\\iron\\Metal_scratched_008_basecolor.jpg
+map_Ns C:\\Users\\Alex\\Desktop\\blender files\\free textcures\\iron\\Metal_scratched_008_roughness.jpg
+refl C:\\Users\\Alex\\Desktop\\blender files\\free textcures\\iron\\Metal_scratched_008_metallic.jpg
+
+newmtl Material.003
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
